@@ -1,2 +1,2 @@
 # gts4vect
-getools for vector utility, a simple java tools,code snippet
+summary the shpfile and geojson import or export postgis by OGC's geotools ,java libray for spatial data
